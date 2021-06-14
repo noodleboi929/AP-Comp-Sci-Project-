@@ -5,15 +5,8 @@ import * as contactStyles from "./contact.module.scss";
 const ContactPage = () => {
   return (
     <Layout>
-      <h1>Contacts</h1>
-      <p>You can contact me at akashmacha73@gmail.com</p>
-      <p>
-        Follow me on Twitter:{" "}
-        <a href="https://twitter.com" target="_blank">
-          {" "}
-          My Twitter
-        </a>
-      </p>
+      <h1 className={contactStyles.heads}>Contacts:</h1>
+
       <div className={contactStyles.flexDesign}>
         <a href="mailto: akashmacha73@gmail.com" target="__blank">
           <img src="gmailpic.svg" alt="This Dumb" />

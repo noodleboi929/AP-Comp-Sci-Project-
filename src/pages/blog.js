@@ -27,8 +27,7 @@ const BlogPage = ({ title, content, date, index = 0 }) => {
 
   return (
     <Layout>
-      <h1> Blog</h1>
-      <p>Posts will show up here later on</p>
+      <h1 className={blogStyle.heads}> Blog:</h1>
       {/* <code>{JSON.stringify(b)}</code> */}
 
       <div className={blogStyle.center}>
