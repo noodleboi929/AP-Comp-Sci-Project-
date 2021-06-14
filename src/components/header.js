@@ -5,7 +5,6 @@ import { Link, graphql, useStaticQuery } from "gatsby";
 import * as headerStyles from "./header.module.scss";
 import Img from "gatsby-image";
 import { StaticImage } from "gatsby-plugin-image";
-import AkashM from "../assets/akashm.inline.svg";
 
 const Header = () => {
   const data = useStaticQuery(graphql`
