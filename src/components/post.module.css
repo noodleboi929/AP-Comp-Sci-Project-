@@ -1,0 +1,40 @@
+.container {
+  max-width: 1000px;
+  width: 100%;
+  border-radius: 8px;
+  background-color: var(--light);
+  padding: 12px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+  animation: zoomin 0.5s backwards ease;
+  box-shadow: 0 0 12px 0 #0004;
+}
+.container img {
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
+  border-radius: 4px;
+}
+
+.container > *:last-child {
+  margin-bottom: 0;
+}
+.content {
+  margin: 0;
+  text-align: center;
+  font-size: 1em;
+}
+
+.title {
+  margin: 0;
+  text-align: center;
+  font-size: 2em;
+  text-decoration: underline;
+}
+
+@keyframes zoomin {
+  0% {
+    transform: scale(0.88);
+    opacity: 0;
+  }
+}
