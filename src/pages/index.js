@@ -25,6 +25,13 @@ const IndexPage = () => {
               code. I hope you enjoy the website and feel free to contact me
               regarding anything
             </p>
+            <h2>What is This Website?</h2>
+            <p>
+              This is a portfolio website. It is essentially a digital 'resume'.
+              It contains basic information about me and my accomplishment. In
+              all honesty this website itself is an accomplishment becuase I
+              have never used gatsby before.
+            </p>
           </div>
           <a href="https://www.gatsbyjs.com/" target="__blank">
             <img src="gatsby.svg" />
