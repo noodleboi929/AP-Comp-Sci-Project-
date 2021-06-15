@@ -10,11 +10,17 @@ const AboutPage = () => {
       <div className={aboutStyle.flexing}>
         <div className={aboutStyle.flexer}>
           <p>
-            My Name is Akash and I am currently a sophmore at Ridge High School.
+            My name is Akash and I am currently a sophmore at Ridge High School.
             However I am not like a normal sophmore. Even though most of my
-            peers are already 16, I wont turn 16 until next year. I personally
-            think that I am smart, funny, and charismatic, but I guess thats for
-            you to decide.
+            peers are already 16, I wont turn 16 until next year. But I am not
+            some static character like this website is. I have multiple
+            interests. I play for volleyabll fo the school. I am played on
+            Junior Varsity this year, but I was fortunate to be the capatain of
+            the JV team. I also enjoy videogames. My favorites are usually first
+            person shooters, RPGs, or gacha games. Thirdly, I also like coding
+            and this website is a testament to that. I personally think that I
+            am smart, funny, and charismatic, but I guess thats for you to
+            decide.
           </p>
         </div>
         <a
@@ -25,10 +31,12 @@ const AboutPage = () => {
         </a>
         <div className={aboutStyle.flexer}>
           <p>
-            I am really excited for the summer this year becuase I finally got
-            my first internship. I am really interest in computer science and
-            bioinformatics and plan on studying it in college. The internship is
-            at MSK and I get to shadow a bioinformatics professional !
+            Summer is right around the corner and I am really excited for it
+            this year! First of all, I am excited to see all of my friends in
+            person again, just like the old times. Additionally, this is the
+            perfect summer for me to rapidly improve my volleyball skills.
+            Finally, I will be attending an internship and multiple volunteering
+            programs, which will create a unique experience.
           </p>
         </div>
         <a href="https://www.mskcc.org/" target="__blank">
