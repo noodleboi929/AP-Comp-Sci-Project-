@@ -11,16 +11,14 @@ const AboutPage = () => {
         <div className={aboutStyle.flexer}>
           <p>
             My name is Akash and I am currently a sophmore at Ridge High School.
-            However I am not like a normal sophmore. Even though most of my
-            peers are already 16, I wont turn 16 until next year. But I am not
-            some static character like this website is. I have multiple
-            interests. I play for volleyabll fo the school. I am played on
-            Junior Varsity this year, but I was fortunate to be the capatain of
-            the JV team. I also enjoy videogames. My favorites are usually first
-            person shooters, RPGs, or gacha games. Thirdly, I also like coding
-            and this website is a testament to that. I personally think that I
-            am smart, funny, and charismatic, but I guess thats for you to
-            decide.
+            But I am not some static character like this website is. I have
+            multiple interests. I play for volleyabll fo the school. I am played
+            on Junior Varsity this year, but I was fortunate to be the capatain
+            of the JV team. I also enjoy videogames. My favorites are usually
+            first person shooters, RPGs, or gacha games. Thirdly, I also like
+            coding and this website is a testament to that. I personally think
+            that I am smart, funny, and charismatic, but I guess thats for you
+            to decide.
           </p>
         </div>
         <a
